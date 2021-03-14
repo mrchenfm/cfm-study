@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb260c44-0915-44dd-bce8-0673c970c146" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cfm-study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop-cache/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop-cache/src/main/java/com/cfm/study/cache/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop-cache/src/main/java/com/cfm/study/cache/configuration/EhCacheConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop-cache/src/main/java/com/cfm/study/cache/configuration/JedisClusterConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop-cache/src/main/java/com/cfm/study/cache/configuration/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop-cache/src/main/java/com/cfm/study/cache/constants/CacheConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop-cache/src/main/java/com/cfm/study/cache/kafka/KafkaConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop-cache/src/main/java/com/cfm/study/cache/kafka/KafkaConsumerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop-cache/src/main/java/com/cfm/study/cache/listener/InitListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop-cache/src/main/java/com/cfm/study/cache/service/CacheService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop-cache/src/main/java/com/cfm/study/cache/service/RedisService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop-cache/src/main/java/com/cfm/study/cache/service/impl/CacheServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop-cache/src/main/java/com/cfm/study/cache/service/impl/RedisServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop-cache/src/main/java/com/cfm/study/cache/utils/JedisClusterUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop-cache/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop-cache/src/main/resources/ehcache.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven_respostory\.m2\repository" />
+        <option name="mavenHome" value="D:/maven_respostory/soft/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\maven_respostory\soft\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pjLIbH4Np62OZcizHlRajKiHWD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showModules" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/eshop-cache/src/main/java/com/cfm/study/cache" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cfm.study.cache.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA\workspace\cfm-study\eshop-cache\src\main\java\com\cfm\study\cache" />
+      <recent name="D:\IDEA\workspace\cfm-study\eshop-cache\src\main\java\com\cfm\study\cache\configuration" />
+      <recent name="D:\IDEA\workspace\cfm-study" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eshop-cache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cfm.study.cache.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb260c44-0915-44dd-bce8-0673c970c146" name="Default Changelist" comment="" />
+      <created>1615691473055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615691473055</updated>
+      <workItem from="1615691478142" duration="5975000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="55" key="#com.intellij.ide.util.MemberChooser" timestamp="1615707331321">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="446" y="55" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1615707331321" />
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1615691550880">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1615691550880" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1615691554317">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1615691554317" />
+    <state x="254" y="45" width="773" height="600" key="find.popup" timestamp="1615706243574">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="254" y="45" width="773" height="600" key="find.popup/0.0.1280.689@0.0.1280.689" timestamp="1615706243574" />
+    <state x="28" y="40" key="new project wizard" timestamp="1615691617102">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="28" y="40" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1615691617102" />
+  </component>
+</project>
